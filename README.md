@@ -48,7 +48,7 @@ Follow these steps to install and run the Daily Digest News App:
 1. Clone the repository:
 
 ```
-git clone https://github.com/Om-Khode/Daily-Digest.git
+git clone https://github.com/Sandip1902/Daily-Digest-main.git
 ```
 
 2. Change into the project directory:
