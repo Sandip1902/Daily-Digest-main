@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
+.navbar-brand{
+    font-family: 'Courgette', cursive;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+@media screen and (max-width: 991.5px) {
+    .navbarBtnContainer{
+        flex-direction: column !important;
+        width: 15rem;
+        margin: auto;
+        max-width: 90%;
+    }
+}

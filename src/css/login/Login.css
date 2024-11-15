@@ -1,0 +1,13 @@
+.loginForm{
+    width: 30rem;
+    border: 2px solid #ccd4dc;
+    padding: 2rem;
+    border-radius: 20px;
+    translate: 0 50%;
+    max-width: 90%;
+}
+
+.loginPage{
+    width: 100vw;
+    height: 100vh;
+}
